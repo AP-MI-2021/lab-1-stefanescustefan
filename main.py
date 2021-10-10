@@ -1,5 +1,5 @@
 '''
-Returneaza true daca n este prim si false daca nu.
+Returneaza true daca n este prim si false daca nu...
 '''
 
 
